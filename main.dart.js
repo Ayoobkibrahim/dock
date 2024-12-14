@@ -52312,7 +52312,7 @@ $S:0}
 A.VJ.prototype={
 $0(){var s=this.a,r=this.b
 s.f=r
-s.e="Dragging: "+s.a.d[r]},
+s.e=" "+s.a.d[r]},
 $S:0}
 A.VR.prototype={
 $0(){var s=this.a
